@@ -1,2 +1,2 @@
-# Qt_VTK_Integration_Example_Python
+# Qt-VTK Integration Example for Python
  
